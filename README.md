@@ -1,0 +1,3 @@
+- 👋 Hi, I’m GoodJob
+- 👀 I’m frontend developer
+- 🏆 My projects will be presented here
